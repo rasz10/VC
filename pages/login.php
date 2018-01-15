@@ -47,7 +47,7 @@
         </h2>
         <div class="login-wrap">
           <p>
-            <b><i>" Selamat Datang di Sistem Informasi Pembiayaan dan Pengelolaan Dokumen PNM Venture Capital "</i></b><br>
+            <b><i>" Selamat Datangx di Sistem Informasi Pembiayaan dan Pengelolaan Dokumen PNM Venture Capital "</i></b><br>
             <center>
                 <h4><b>(SIP)</b></h4>
             </center>
